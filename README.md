@@ -17,9 +17,9 @@
   <!--<img align="center" alt="Julio-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">-->
   <img align="center" alt="Julio-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <!--<img align="center" alt="Julio-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">-->
-  <img align="center" alt="Julio-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <!--<img align="center" alt="Julio-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Julio-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="Julio-Apple" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
+  <img align="center" alt="Julio-Apple" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">-->
   
 </div>
   
