@@ -20,7 +20,7 @@
   <!--<img align="center" alt="Julio-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Julio-Apple" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">-->
   <img align="center" alt="Julio-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Julio-Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+  <!--<img align="center" alt="Julio-Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">-->
   
 </div>
   
