@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0794DE&height=120&section=header"/>
 
-<div align="center">
-  <h1> Hi, I'm Julio Cezar 🫂</h1>
-</div>
+## Hi, I'm Julio Cezar
+
 
 <p>Welcome to my Github profile. Catarinense, 19 years old. Passionate about computing, especially development for websites and designs, with great interest in Front-end development. I show dedication and commitment to all tasks and functions assigned to me, always looking for improvement and daily learning in this future profession which I identify myself more and more.</p>
 
