@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0794DE&height=120&section=header"/>
-
-## Hi, I'm Julio Cezar
+## ⚓ Hi, I'm Julio Cezar
 
 
 <p>Welcome to my Github profile. Catarinense, 20 years old. Passionate about computing, especially development for websites and designs, with great interest in Front-end development. I show dedication and commitment to all tasks and functions assigned to me, always looking for improvement and daily learning in this future profession which I identify myself more and more.</p>
@@ -9,10 +7,6 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=julioamaral007&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioamaral007&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
 </div>
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=julioamaral007&bg_color=0d1116&color=29BE87&line=0794DE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Skills 🛠
 <div align="center"><br>
@@ -31,12 +25,10 @@
   <img align="center" alt="Julio-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div><br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=julioamaral007&bg_color=0d1116&color=29BE87&line=0794DE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center"><br/> 
   <a href="https://instagram.com/julioamaral_p" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jczrpereira77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julio-cezar-amaral-pereira-19244b22a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0794DE&height=120&section=footer"/>
-
-
