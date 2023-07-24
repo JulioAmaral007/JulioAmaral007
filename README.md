@@ -25,7 +25,7 @@
   <img align="center" alt="Julio-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div><br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=julioamaral007&bg_color=0d1116&color=29BE87&line=0794DE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=julioAmaral007&bg_color=050f2c&color=ffffff&line=0794de&point=00ff1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"><br/> 
   <a href="https://instagram.com/julioamaral_p" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
