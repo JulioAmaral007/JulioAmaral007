@@ -4,7 +4,7 @@
 <p>Welcome to my Github profile. Catarinense, 20 years old. Passionate about computing, especially development for websites and designs, with great interest in Front-end development. I show dedication and commitment to all tasks and functions assigned to me, always looking for improvement and daily learning in this future profession which I identify myself more and more.</p>
 
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=julioamaral007&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
+<img  src="https://github-readme-stats.vercel.app/api?username=julioamaral007&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" /> <br/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioamaral007&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
 </div>
 
