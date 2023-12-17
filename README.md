@@ -1,34 +1,42 @@
-## ⚓ Hi, I'm Julio Cezar
+## ⚓ Julio Cezar
 
 
-<p>Welcome to my Github profile. Catarinense, 20 years old. Passionate about computing, especially development for websites and designs, with great interest in Front-end development. I show dedication and commitment to all tasks and functions assigned to me, always looking for improvement and daily learning in this future profession which I identify myself more and more.</p>
+<p>Bem-vindo ao meu perfil no Github. Catarinense, 20 anos. Apaixonado por informática, principalmente desenvolvimento de sites e designs, com grande interesse em desenvolvimento Front-end. Demonstro dedicação e comprometimento em todas as tarefas e funções que me são atribuídas, buscando sempre o aprimoramento e o aprendizado diário nesta futura profissão com a qual me identifico cada vez mais.</p>
 
-<div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=julioamaral007&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" /> <br/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioamaral007&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
-</div>
+<p>Quer conhecer um pouco mais sobre mim e ver os projetos que já desenvolvi, <a href="https://amaral.vercel.app/" target="_blank">acesse meu portofólio</a></p>
 
 ## My Skills 🛠
-<div align="center"><br>
-  <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julio-Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julio-Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-
-  <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Julio-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Julio-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-   <img align="center" alt="Julio-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <!--<img align="center" alt="Julio-GraphQl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">-->
-  <img align="center" alt="Julio-Git" height="30" width="40" src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg">
-  <img align="center" alt="Julio-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-</div><br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=julioAmaral007&bg_color=050f2c&color=ffffff&line=0794de&point=00ff1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center"><br/> 
-  <a href="https://instagram.com/julioamaral_p" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jczrpereira77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julio-cezar-amaral-pereira-19244b22a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  <div align="center" style="display: inline_block;">
+ <kbd>
+      <kbd>Conhecimento em:</kbd>
+      <br />
+      <br />
+  <img align="center" title="ReactJS" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="NextJS" alt="Julio-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" title="TypeScript" alt="Julio-Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" title="JavaScript" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="NodeJS" alt="Julio-Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="Git" alt="Julio-Git" height="30" width="40" src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg">
+  <img align="center" title="Figma" alt="Julio-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+<br />
+<br /> 
+</kbd>
+<kbd align="center">
+<kbd>Estudando:</kbd>
+ <br />
+ <br /> 
+  <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" title="docker" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" title="mongodb" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+ <br />
+ <br />
+</kbd> 
+<kbd align="center">
+<kbd>Interesse em:</kbd> 
+     <br />
+     <br />
+   <img align="center" title="Nestjs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"/>
+ <br />
+ <br />
+ </kbd>
+ </div>
