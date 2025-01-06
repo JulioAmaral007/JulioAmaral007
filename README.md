@@ -6,7 +6,7 @@
 
 ###
 
-<p>Quer conhecer um pouco mais sobre mim e ver os projetos que já desenvolvi, <a href="https://amaral.vercel.app/" target="_blank">acesse meu portofólio</a></p>
+<p>Want to know a little more about me and see the projects I've already developed, <a href="https://amaral.vercel.app/" target="_blank">access my portfolio</a></p >
 
 ###
 
