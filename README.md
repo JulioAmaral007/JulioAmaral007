@@ -1,41 +1,68 @@
-## ⚓ Julio Cezar
+<h1 align="left">Hey ⚓ What's up?</h1>
 
+###
 
-<p>Bem-vindo ao meu perfil no Github. Catarinense, 22 anos. Apaixonado por informática, principalmente desenvolvimento de sites e designs, com grande interesse em desenvolvimento Front-end. Demonstro dedicação e comprometimento em todas as tarefas e funções que me são atribuídas, buscando sempre o aprimoramento e o aprendizado diário nesta futura profissão com a qual me identifico cada vez mais.</p>
+<p align="left">Welcome to my GitHub profile! My name is Júlio Cézar, I'm from Santa Catarina, I'm 22 years old and I'm passionate about IT, especially website development and design. I have a great interest in Front-end development and I am dedicated and committed to all the tasks and functions assigned to me. I constantly seek improvement and daily learning, identifying myself more and more with this profession that I chose for my future.</p>
+
+###
 
 <p>Quer conhecer um pouco mais sobre mim e ver os projetos que já desenvolvi, <a href="https://amaral.vercel.app/" target="_blank">acesse meu portofólio</a></p>
 
-## My Skills 🛠
-  <div align="center" style="display: inline_block;">
- <kbd>
-      <kbd>Conhecimento em:</kbd>
-      <br />
-      <br />
-  <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" title="ReactJS" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="NextJS" alt="Julio-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" title="TypeScript" alt="Julio-Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" title="NodeJS" alt="Julio-Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="Git" alt="Julio-Git" height="30" width="40" src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg">
-  <img align="center" title="Figma" alt="Julio-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-<br />
-<br /> 
-</kbd>
-<kbd align="center">
-<kbd>Estudando:</kbd>
- <br />
- <br /> 
-  <img align="center" title="docker" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" title="mongodb" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
- <br />
- <br />
-</kbd> 
-<kbd align="center">
-<kbd>Interesse em:</kbd> 
-     <br />
-     <br />
-   <img align="center" title="Nestjs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/>
- <br />
- <br />
- </kbd>
- </div>
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/julioamaral007/julioamaral007/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/juliocezaramaral/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="jczrpereira77@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
