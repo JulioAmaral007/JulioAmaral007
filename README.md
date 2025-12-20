@@ -1,6 +1,6 @@
 # Hey ⚓ What's up? I'm Júlio Cezar
 
-🚀 **Junior Software Engineer | TypeScript Specialist**  
+🚀 **Junior Software Engineer | TypeScript & PHP Specialist**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
