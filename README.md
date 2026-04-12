@@ -73,15 +73,6 @@ Want to know a little more about me and see the projects I've already developed,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=julioamaral007&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioamaral007&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
