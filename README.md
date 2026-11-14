@@ -1,46 +1,27 @@
 # Hey ⚓ What's up? I'm Júlio Cezar
 
-🚀 **Junior Software Engineer | TypeScript & PHP Specialist**  
-🇧🇷 Brazil
-
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+## 👨‍💻 About me
+ 
+I build web experiences from concept to deploy, with a focus on **clean interfaces, maintainable code and products that solve real problems**. I started in the React and Next.js ecosystem, then went deeper into PHP, and today I work full-stack in both.
 
 Want to know a little more about me and see the projects I've already developed, <a href="https://amaral.vercel.app/" target="_blank">access my portfolio</a>
 
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/JulioAmaral007">
-    <img src="https://img.shields.io/badge/GitHub-JulioAmaral007-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="linkedin.com/in/juliocezaramaral/">
-    <img src="https://img.shields.io/badge/LinkedIn-JulioAmaral007-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a> -->
-</p>
-
+- 💼 Full-Stack Developer (Mid-level) at **Codee-X**, delivering and maintaining PHP and JavaScript solutions: APIs, interfaces and production systems
+- 🔭 Building with **TypeScript, React/Next.js, Node.js and PHP**
+- 🌱 Currently studying **scalable application architecture**, building a reusable admin panel and reading about design systems
+- 📫 Want to talk? Reach me on [LinkedIn](https://www.linkedin.com/in/juliocezaramaral/)
+ 
 ---
 
 ## 🧠 What I do
-
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
+ 
+-   🌐 Websites with a focus on performance & SEO
+-   ⚛️ Web apps with React & Next.js
+-   🔌 APIs and back-end with PHP & Node.js
+-   📊 Dashboards
+-   🔎 Semantic search with embeddings
+-   🚢 End-to-end delivery, from code to deploy
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -57,7 +38,7 @@ Want to know a little more about me and see the projects I've already developed,
 ### Backend
 
 ![PHP](https://skillicons.dev/icons?i=php)
-![PHP](https://skillicons.dev/icons?i=cpp)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -75,8 +56,11 @@ Want to know a little more about me and see the projects I've already developed,
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Good code is code other people can read."_
+
+- 📖 **Readable code:** it should be easy to read later
+- ⚡ **Performance matters:** loading fast keeps users from leaving
+- ✨ **Details matter:** microinteractions and copy make the difference
 
 ---
 
